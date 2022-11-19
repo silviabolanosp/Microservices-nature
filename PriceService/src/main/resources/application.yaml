@@ -1,0 +1,8 @@
+server:
+  port=8080
+
+pricing:
+  plan:
+    basic: 10
+    standard: 20
+    vip: 50

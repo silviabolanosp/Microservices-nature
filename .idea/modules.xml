@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-nature.iml" filepath="$PROJECT_DIR$/.idea/Microservices-nature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriceService/PaisService.iml" filepath="$PROJECT_DIR$/PriceService/PaisService.iml" />
     </modules>
   </component>
 </project>

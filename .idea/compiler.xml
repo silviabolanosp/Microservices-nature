@@ -2,19 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="EurekaServer" />
-        <module name="AnimalService" />
+        <module name="PaisService" />
         <module name="ConfigServer" />
+        <module name="AnimalService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AnimalService" target="1.8" />
       <module name="ConfigServer" target="17" />
       <module name="EurekaServer" target="1.8" />
+      <module name="PaisService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +25,7 @@
       <module name="AnimalService" options="-parameters" />
       <module name="ConfigServer" options="-parameters" />
       <module name="EurekaServer" options="-parameters" />
+      <module name="PaisService" options="-parameters" />
     </option>
   </component>
 </project>
